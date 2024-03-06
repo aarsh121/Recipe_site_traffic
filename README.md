@@ -1,7 +1,7 @@
 # Recipe_site_traffic
 
 Tasty Bytes 🍜 Recipe Site Web Traffic
-This project was my final practical exam for my Data Scientist Professional certification with Python and SQL at DataCamp.
+This project is from DataCamp.
 
 
 Synopsis 📋
@@ -45,5 +45,3 @@ ML model evaluation
 Business metric definition
 Summary and recommendations
 
-Tech Stack 🛠️
-Python 🐍, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, GoogleColab, Yellowbrick
